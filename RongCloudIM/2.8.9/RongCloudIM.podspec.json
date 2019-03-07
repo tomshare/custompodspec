@@ -31,8 +31,8 @@
       "resources": "RongCloudIM/RCConfig.plist",
       "xcconfig": {
         "OTHER_LDFLAGS": "-ObjC"
-      },
-      "vendored_libraries": "RongCloudIM/libopencore-amrnb.a"
+      }
+
     },
     {
       "name": "IMKit",
